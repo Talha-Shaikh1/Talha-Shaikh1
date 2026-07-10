@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Talha 👋</h1>
 
-<h3 align="center">Full-Stack Developer | Building AI-powered chatbot solutions</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0F6E56&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Building+AI-powered+chatbots;Creator+of+BotAura" alt="Typing SVG"/>
+</p>
 
 <p align="center">
   <a href="https://botaura.app">
@@ -27,22 +29,36 @@ I'm currently building **[BotAura](https://botaura.app)** — a RAG-powered AI c
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,fastapi,python,nodejs,git,github" alt="Tech stack icons"/>
 </p>
 
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS
-**Backend:** FastAPI · Node.js
-**Auth & Infra:** Clerk · Meta / WhatsApp Business API
-**Other:** RAG pipelines · Git & GitHub
+| Area | Stack |
+|------|-------|
+| Frontend | `Next.js` `React` `TypeScript` `Tailwind CSS` |
+| Backend | `FastAPI` `Node.js` |
+| Auth & Infra | `Clerk` `Meta / WhatsApp Business API` |
+| AI | `RAG pipelines` |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Talha-Shaikh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Talha's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Shaikh1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Talha-Shaikh1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Talha's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Shaikh1&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-Shaikh1&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-Shaikh1&theme=radical&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Talha-Shaikh1&theme=radical&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+### 🐍 Contribution graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Talha-Shaikh1/Talha-Shaikh1/output/github-contribution-grid-snake.svg" alt="Snake animation eating contribution graph"/>
 </p>
 
 ---
