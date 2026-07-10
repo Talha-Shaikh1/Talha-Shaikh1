@@ -102,14 +102,14 @@ const talha = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&title_color=10b981&icon_color=14b8a6&text_color=c9d1d9&bg_color=030712&include_all_commits=true&count_private=true" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&title_color=10b981&text_color=c9d1d9&bg_color=030712&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Talha-Shaikh1&show_icons=true&hide_border=true&title_color=10b981&icon_color=14b8a6&text_color=c9d1d9&bg_color=030712&include_all_commits=true&count_private=true" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Shaikh1&layout=compact&hide_border=true&title_color=10b981&text_color=c9d1d9&bg_color=030712&langs_count=8" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true&background=030712&stroke=10b981&ring=14b8a6&fire=10b981&currStreakLabel=10b981&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e&sideLabels=14b8a6" />
+<img width="90%" src="https://streak-stats.demolab.com?user=Talha-Shaikh1&hide_border=true&background=030712&stroke=10b981&ring=14b8a6&fire=10b981&currStreakLabel=10b981&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e&sideLabels=14b8a6" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=030712&color=10b981&line=14b8a6&point=ffffff&area=true&hide_border=true&area_color=10b981" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Shaikh1&bg_color=030712&color=10b981&line=14b8a6&point=ffffff&area=true&hide_border=true&area_color=10b981" />
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Talha-Shaikh1&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
@@ -120,9 +120,9 @@ const talha = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Talha-Shaikh1/Talha-Shaikh1/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Talha-Shaikh1/Talha-Shaikh1/output/snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Talha-Shaikh1/Talha-Shaikh1/output/snake.svg" />
   </picture>
 </div>
 
