@@ -1,17 +1,17 @@
 <!--
   ╔══════════════════════════════════════════════════════════╗
   ║   Muhammad Talha Shaikh — GitHub Profile README           ║
-  ║   Replace every YOUR-USERNAME with your GitHub handle     ║
+  ║   Username: Talha-Shaikh1                                 ║
   ╚══════════════════════════════════════════════════════════╝
 -->
 
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:10b981,100:14b8a6&height=220&section=header&text=Muhammad%20Talha%20Shaikh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Solo%20Founder%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Engineer%20in%20the%20making&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:10b981,100:14b8a6&height=220&section=header&text=Muhammad%20Talha%20Shaikh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Solo%20Founder%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Karachi%2C%20Pakistan&descAlignY=58&descSize=18" />
 
 <a href="https://botaura.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Building+Botaura+%E2%80%94+Bot+nahi.+Aura.;Multi-tenant+RAG+chatbots+for+Pakistani+SMBs;Next.js+%2B+FastAPI+%2B+pgvector+%2B+WhatsApp+API;Shipping+solo%2C+zero+budget%2C+one+session+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Building+Botaura+%E2%80%94+Bot+nahi.+Aura.;Multi-tenant+RAG+chatbot+SaaS+for+Pakistani+SMBs;Next.js+%2B+FastAPI+%2B+pgvector+%2B+WhatsApp+API;Shipped+solo%2C+zero+budget%2C+160%2B+production+routes." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,67 +19,51 @@
 <a href="https://botaura.app"><img src="https://img.shields.io/badge/🌿_Botaura-Live-10b981?style=for-the-badge&labelColor=030712" /></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-14b8a6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030712" /></a>
 <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Reach_out-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030712" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=10b981&label=PROFILE+VIEWS&labelColor=030712" />
+<img src="https://komarev.com/ghpvc/?username=Talha-Shaikh1&style=for-the-badge&color=10b981&label=PROFILE+VIEWS&labelColor=030712" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="3px" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:10b981,100:14b8a6&height=3" />
 
 <!-- ===================== ABOUT ===================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+## &nbsp;🌿 About Me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coding.gif" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coding.gif" />
 
-```ts
-const talha = {
-  location:  "Karachi, Pakistan 🇵🇰",
-  role:      "Solo Founder & Full-Stack Dev",
-  building:  "Botaura — RAG chatbots for SMBs",
-  stack:     ["Next.js 16", "TypeScript", "FastAPI", "Postgres"],
-  ai:        ["pgvector", "Hybrid Search", "LLM Orchestration"],
-  currently: "Phase 3.F — WooCommerce + Shopify integrations",
-  learning:  ["DSA", "Cloud Architecture", "System Design"],
-  goal:      "AI / Cloud Engineer",
-  motto:     "Bot nahi. Aura."
-};
-```
+I'm a solo founder and full-stack developer based in Karachi, building **[Botaura](https://botaura.app)** — a multi-tenant RAG chatbot platform for Pakistani SMBs — from architecture to deployment, entirely on my own.
 
-- 🌱 &nbsp;Building **[Botaura](https://botaura.app)** — the first chatbot platform with native **Urdu / Hinglish** support & PKR pricing
-- ⚡ &nbsp;Shipped a full multi-tenant SaaS solo: WhatsApp Business API, RAG pipeline, broadcast engine, observability stack
-- 🧠 &nbsp;Deep in **vector search, embeddings, and agent tool layers**
-- 🎯 &nbsp;Long game: **AI / Cloud Engineer**
-- 💬 &nbsp;Ask me about **RAG architecture, Meta Tech Provider flows, or shipping alone**
+- 🚀 Designed and shipped a production multi-tenant SaaS: RAG pipeline, WhatsApp Business API automation, broadcast engine, and a full observability stack — solo, zero budget
+- 🧠 Comfortable working across the stack: Next.js/TypeScript frontend, FastAPI/Python backend, Postgres + pgvector for hybrid search
+- 📈 Currently building Phase 3.F: WooCommerce plugin + Shopify embedded app integrations
+- 🛠️ Actively strengthening core CS fundamentals (DSA) and infra skills (Linux, Docker) alongside product work
+- 🎯 Working toward: AI / Cloud Engineering roles
+- 💬 Happy to talk about RAG architecture, WhatsApp Business API / Meta Tech Provider flows, or what it's like shipping a SaaS alone
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="3px" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:10b981,100:14b8a6&height=3" />
 
-<!-- ===================== TECH STACK ===================== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Arsenal
+<!-- ===================== SKILLS ===================== -->
+## &nbsp;🧩 Skills
 
-<div align="center">
+**Comfortable & shipping production code with:**
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,fastapi,postgres,tailwind&theme=dark" />
 
-### Backend & Data
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,nodejs,prisma&theme=dark" />
+**Also use regularly:**
 
-### Infra & Tools
-<img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,html,css,git,github,vercel,cloudflare,vscode&theme=dark" />
 
-### AI / ML
-<img src="https://img.shields.io/badge/pgvector-030712?style=for-the-badge&logo=postgresql&logoColor=10b981" />
-<img src="https://img.shields.io/badge/HuggingFace-030712?style=for-the-badge&logo=huggingface&logoColor=14b8a6" />
-<img src="https://img.shields.io/badge/LangChain-030712?style=for-the-badge&logo=chainlink&logoColor=10b981" />
-<img src="https://img.shields.io/badge/Claude_Code-030712?style=for-the-badge&logo=anthropic&logoColor=14b8a6" />
+**Actively learning right now** *(building real reps, not just tutorials)*:
 
-</div>
+<img src="https://skillicons.dev/icons?i=linux,docker&theme=dark" />
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="3px" />
+> Running a structured 10-day DSA plan (no AI assistance, by design) to build genuine problem-solving muscle, plus hands-on Linux/Docker practice — comfortable with core commands, still building toward full workflow fluency.
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:10b981,100:14b8a6&height=3" />
 
 <!-- ===================== FEATURED PROJECT ===================== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> &nbsp;Featured Build
+## &nbsp;🏆 Featured Build
 
 <div align="center">
 <a href="https://botaura.app">
@@ -87,18 +71,23 @@ const talha = {
 </a>
 </div>
 
+Botaura is a full multi-tenant RAG chatbot SaaS built to serve Pakistani SMBs, with native Urdu/Hinglish support — from idea to 160+ production routes, built and shipped solo.
+
 | | |
 |:--|:--|
-| **Frontend** | Next.js 16 App Router · TypeScript · Tailwind v4 · Clerk · Drizzle |
-| **Backend** | FastAPI · asyncpg · HuggingFace Spaces |
+| **Frontend** | Next.js 16 App Router · TypeScript · Tailwind v4 · Clerk · Drizzle ORM |
+| **Backend** | FastAPI · asyncpg · deployed on HuggingFace Spaces |
 | **Data** | Neon Postgres + pgvector (HNSW) · Cloudflare R2 |
-| **AI** | Hybrid search (cosine + BM25) · multilingual embeddings · LLM fallback chain |
-| **Channels** | Web widget · WhatsApp Business API · WooCommerce · Shopify |
+| **AI/Search** | Hybrid search (cosine similarity + BM25) · multilingual embeddings · LLM fallback chain (Grok + OpenRouter) |
+| **Channels** | Web widget · WhatsApp Business API (Meta Tech Provider model) · WooCommerce · Shopify |
+| **Ops** | Full observability stack, admin + client-facing health dashboards, support inbox |
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="3px" />
+**What I built end-to-end:** multi-tenant architecture with strict tenant isolation, WhatsApp automation (inbound bot, COD order flow, team inbox, customer segmentation), broadcast campaigns via Meta's Marketing Messages API, click-to-WhatsApp ad attribution, abandoned cart recovery, and a public Store API for e-commerce platforms to integrate with.
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:10b981,100:14b8a6&height=3" />
 
 <!-- ===================== STATS ===================== -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"> &nbsp;GitHub Stats
+## &nbsp;📊 GitHub Stats
 
 <div align="center">
 
@@ -113,10 +102,12 @@ const talha = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="3px" />
+> ⚠️ If any of the above still shows a broken image after setup: go to **GitHub → Settings → Profile → "Include private contributions"** and make sure it's turned ON, then hard-refresh (these services sometimes rate-limit too — they usually recover within a few minutes).
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:10b981,100:14b8a6&height=3" />
 
 <!-- ===================== SNAKE ===================== -->
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="26"> &nbsp;Contribution Snake
+## &nbsp;🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -126,17 +117,18 @@ const talha = {
   </picture>
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="3px" />
+> ⚠️ This will show broken until the `snake.yml` workflow (provided separately) runs at least once in your `Talha-Shaikh1/Talha-Shaikh1` repo and creates the `output` branch. See setup steps below.
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:10b981,100:14b8a6&height=3" />
 
 <!-- ===================== CURRENTLY ===================== -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="26"> &nbsp;Currently
+## &nbsp;🎯 Currently
 
 ```yaml
 building:   Botaura Phase 3.F — WooCommerce plugin + Shopify embedded app
 learning:   DSA (10-day structured plan, zero AI assistance)
-refreshing: TypeScript + Python fundamentals
-reading:    Designing Data-Intensive Applications
-open_to:    Collaborations on AI/RAG products
+practicing: Linux command line + Docker fundamentals
+open_to:    Collaborations on AI/RAG products, AI/Cloud Engineering roles
 ```
 
 <div align="center">
