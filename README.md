@@ -1,26 +1,34 @@
 <!--
   ╔══════════════════════════════════════════════════════════╗
-  ║   Muhammad Talha Shaikh — GitHub Profile README           ║
-  ║   Username: Talha-Shaikh1                                 ║
+  ║ Muhammad Talha Shaikh — GitHub Profile README           ║
+  ║ Username: Talha-Shaikh1                                 ║
   ╚══════════════════════════════════════════════════════════╝
 -->
 
 <!-- ===================== HEADER ===================== -->
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:10b981,100:14b8a6&height=220&section=header&text=Muhammad%20Talha%20Shaikh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Solo%20Founder%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Karachi%2C%20Pakistan&descAlignY=58&descSize=18" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:10b981,100:14b8a6&height=220&section=header&text=Muhammad%20Talha%20Shaikh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Solo%20Founder%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Karachi%2C%20Pakistan&descAlignY=58&descSize=18" />
+  <!-- Instagram-style Profile Pic -->
+  <br/>
+  <img 
+    src="https://github.com/Talha-Shaikh1.png" 
+    alt="Muhammad Talha Shaikh" 
+    width="170" 
+    height="170" 
+    style="border-radius: 50%; border: 5px solid transparent; background: linear-gradient(135deg, #10b981, #14b8a6, #34d399) border-box; box-shadow: 0 0 28px rgba(16, 185, 129, 0.55), 0 0 10px rgba(20, 184, 166, 0.4); margin-top: -20px;"
+  />
+  <br/><br/>
 
-<a href="https://botaura.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Building+Botaura+%E2%80%94+Bot+nahi.+Aura.;Multi-tenant+RAG+chatbot+SaaS+for+Pakistani+SMBs;Next.js+%2B+FastAPI+%2B+pgvector+%2B+WhatsApp+API;Shipped+solo%2C+zero+budget%2C+160%2B+production+routes." alt="Typing SVG" />
-</a>
+  <a href="https://botaura.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Building+Botaura+%E2%80%94+Bot+nahi.+Aura.;Multi-tenant+RAG+chatbot+SaaS+for+Pakistani+SMBs;Next.js+%2B+FastAPI+%2B+pgvector+%2B+WhatsApp+API;Shipped+solo%2C+zero+budget%2C+160%2B+production+routes." alt="Typing SVG" />
+  </a>
 
-<br/>
-
-<a href="https://botaura.app"><img src="https://img.shields.io/badge/🌿_Botaura-Live-10b981?style=for-the-badge&labelColor=030712" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-14b8a6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030712" /></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Reach_out-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030712" /></a>
-<img src="https://komarev.com/ghpvc/?username=Talha-Shaikh1&style=for-the-badge&color=10b981&label=PROFILE+VIEWS&labelColor=030712" />
-
+  <br/>
+  <a href="https://botaura.app"><img src="https://img.shields.io/badge/🌿_Botaura-Live-10b981?style=for-the-badge&labelColor=030712" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-14b8a6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030712" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Reach_out-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030712" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Talha-Shaikh1&style=for-the-badge&color=10b981&label=PROFILE+VIEWS&labelColor=030712" />
 </div>
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:10b981,100:14b8a6&height=3" />
@@ -66,9 +74,9 @@ I'm a solo founder and full-stack developer based in Karachi, building **[Botaur
 ## &nbsp;🏆 Featured Build
 
 <div align="center">
-<a href="https://botaura.app">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:030712,100:10b981&height=140&section=header&text=BOTAURA&fontSize=44&fontColor=ffffff&desc=Multi-tenant%20RAG%20chatbot%20SaaS%20%C2%B7%20WhatsApp%20%C2%B7%20Urdu%20%2B%20Hinglish&descSize=15&descAlignY=68&animation=twinkling" />
-</a>
+  <a href="https://botaura.app">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:030712,100:10b981&height=140&section=header&text=BOTAURA&fontSize=44&fontColor=ffffff&desc=Multi-tenant%20RAG%20chatbot%20SaaS%20%C2%B7%20WhatsApp%20%C2%B7%20Urdu%20%2B%20Hinglish&descSize=15&descAlignY=68&animation=twinkling" />
+  </a>
 </div>
 
 Botaura is a full multi-tenant RAG chatbot SaaS built to serve Pakistani SMBs, with native Urdu/Hinglish support — from idea to 160+ production routes, built and shipped solo.
@@ -90,19 +98,12 @@ Botaura is a full multi-tenant RAG chatbot SaaS built to serve Pakistani SMBs, w
 ## &nbsp;📊 GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Talha-Shaikh1&show_icons=true&hide_border=true&title_color=10b981&icon_color=14b8a6&text_color=c9d1d9&bg_color=030712&include_all_commits=true&count_private=true" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Shaikh1&layout=compact&hide_border=true&title_color=10b981&text_color=c9d1d9&bg_color=030712&langs_count=8" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Talha-Shaikh1&hide_border=true&background=030712&stroke=10b981&ring=14b8a6&fire=10b981&currStreakLabel=10b981&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e&sideLabels=14b8a6" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Shaikh1&bg_color=030712&color=10b981&line=14b8a6&point=ffffff&area=true&hide_border=true&area_color=10b981" />
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Talha-Shaikh1&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Talha-Shaikh1&show_icons=true&hide_border=true&title_color=10b981&icon_color=14b8a6&text_color=c9d1d9&bg_color=030712&include_all_commits=true&count_private=true" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Shaikh1&layout=compact&hide_border=true&title_color=10b981&text_color=c9d1d9&bg_color=030712&langs_count=8" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=Talha-Shaikh1&hide_border=true&background=030712&stroke=10b981&ring=14b8a6&fire=10b981&currStreakLabel=10b981&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e&sideLabels=14b8a6" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Shaikh1&bg_color=030712&color=10b981&line=14b8a6&point=ffffff&area=true&hide_border=true&area_color=10b981" />
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Talha-Shaikh1&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </div>
-
-> ⚠️ If any of the above still shows a broken image after setup: go to **GitHub → Settings → Profile → "Include private contributions"** and make sure it's turned ON, then hard-refresh (these services sometimes rate-limit too — they usually recover within a few minutes).
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:10b981,100:14b8a6&height=3" />
 
@@ -117,24 +118,17 @@ Botaura is a full multi-tenant RAG chatbot SaaS built to serve Pakistani SMBs, w
   </picture>
 </div>
 
-> ⚠️ This will show broken until the `snake.yml` workflow (provided separately) runs at least once in your `Talha-Shaikh1/Talha-Shaikh1` repo and creates the `output` branch. See setup steps below.
-
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:10b981,100:14b8a6&height=3" />
 
 <!-- ===================== CURRENTLY ===================== -->
 ## &nbsp;🎯 Currently
 
 ```yaml
-building:   Botaura Phase 3.F — WooCommerce plugin + Shopify embedded app
-learning:   DSA (10-day structured plan, zero AI assistance)
+building: Botaura Phase 3.F — WooCommerce plugin + Shopify embedded app
+learning: DSA (10-day structured plan, zero AI assistance)
 practicing: Linux command line + Docker fundamentals
-open_to:    Collaborations on AI/RAG products, AI/Cloud Engineering roles
-```
-
-<div align="center">
-
+open_to: Collaborations on AI/RAG products, AI/Cloud Engineering roles
 > ### *"Bot nahi. Aura."*
 
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:10b981,100:030712&height=140&section=footer" />
+```
