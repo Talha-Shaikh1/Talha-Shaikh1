@@ -114,9 +114,8 @@ const talha = {
 
 ![Streak](https://streak-stats.demolab.com?user=Talha-Shaikh1&hide_border=true&background=030712&stroke=10b981&ring=14b8a6&fire=10b981&currStreakLabel=10b981&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e&sideLabels=14b8a6)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Talha-Shaikh1&bg_color=030712&color=10b981&line=14b8a6&point=ffffff&area=true&hide_border=true&area_color=10b981)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Talha-Shaikh1&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8)
+![Most Commit Language](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![Productive Time](./profile-summary-card-output/github_dark/4-productive-time.svg)
 
 </div>
 
