@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:10b981,100:14b8a6&height=200&section=header&text=Muhammad%20Talha%20Shaikh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Solo%20Founder%20%C2%B7%20Full-Stack%20%26%20AI%20Systems%20Developer%20%C2%B7%20Karachi&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:030712,50:10b981,100:14b8a6&amp;height=200&amp;section=header&amp;text=Muhammad%20Talha%20Shaikh&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Solo%20Founder%20%C2%B7%20Full-Stack%20%26%20AI%20Systems%20Developer%20%C2%B7%20Karachi&amp;descAlignY=58&amp;descSize=16" />
 
 <a href="https://botaura.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Building+Botaura+%E2%80%94+Bot+nahi.+Aura.;Multi-tenant+RAG+chatbot+SaaS+for+Pakistani+SMBs;Next.js+%2B+FastAPI+%2B+pgvector+%2B+WhatsApp+API;Shipped+solo%2C+zero+budget%2C+160%2B+production+routes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=10B981&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+Botaura+%E2%80%94+Bot+nahi.+Aura.;Multi-tenant+RAG+chatbot+SaaS+for+Pakistani+SMBs;Next.js+%2B+FastAPI+%2B+pgvector+%2B+WhatsApp+API;Shipped+solo%2C+zero+budget%2C+160%2B+production+routes" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://botaura.app"><img src="https://img.shields.io/badge/Botaura-Live_Product-10b981?style=for-the-badge&labelColor=030712" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-14b8a6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030712" /></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Reach_Out-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030712" /></a>
+<a href="https://botaura.app"><img src="https://img.shields.io/badge/Botaura-Live_Product-10b981?style=for-the-badge&amp;labelColor=030712" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-14b8a6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=030712" /></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Reach_Out-10b981?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=030712" /></a>
 
 </div>
 
@@ -32,7 +32,7 @@ I build AI products end to end, alone. **Botaura** is my main one: a multi-tenan
 
 <div align="center">
 <a href="https://botaura.app">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:030712,100:10b981&height=120&section=header&text=BOTAURA&fontSize=40&fontColor=ffffff&desc=RAG%20chatbots%20%C2%B7%20WhatsApp%20%C2%B7%20Urdu%20%2B%20Hinglish&descSize=14&descAlignY=68" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:030712,100:10b981&amp;height=120&amp;section=header&amp;text=BOTAURA&amp;fontSize=40&amp;fontColor=ffffff&amp;desc=RAG%20chatbots%20%C2%B7%20WhatsApp%20%C2%B7%20Urdu%20%2B%20Hinglish&amp;descSize=14&amp;descAlignY=68" />
 </a>
 </div>
 
@@ -61,19 +61,19 @@ I build AI products end to end, alone. **Botaura** is my main one: a multi-tenan
 
 ## 🧩 Tech
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,fastapi,postgres,tailwind,nodejs,git,vercel,cloudflare&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,fastapi,postgres,tailwind,nodejs,git,vercel,cloudflare&amp;theme=dark" />
 
 **Currently levelling up:** DSA (structured 10-day plan, no AI assistance on purpose) and Linux / Docker.
 
-<img src="https://skillicons.dev/icons?i=linux,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,docker&amp;theme=dark" />
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Talha-Shaikh1&show_icons=true&hide_border=true&title_color=10b981&icon_color=14b8a6&text_color=c9d1d9&bg_color=030712&include_all_commits=true&count_private=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Shaikh1&layout=compact&hide_border=true&title_color=10b981&text_color=c9d1d9&bg_color=030712&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Talha-Shaikh1&amp;show_icons=true&amp;hide_border=true&amp;title_color=10b981&amp;icon_color=14b8a6&amp;text_color=c9d1d9&amp;bg_color=030712&amp;include_all_commits=true&amp;count_private=true" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Shaikh1&amp;layout=compact&amp;hide_border=true&amp;title_color=10b981&amp;text_color=c9d1d9&amp;bg_color=030712&amp;langs_count=8" alt="Top Languages" />
 </div>
 
 ---
