@@ -1,71 +1,1162 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="Talha Shaikh, solo founder and AI full-stack engineer. A Hinglish customer chat answered by a RAG bot." xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxMDIwZTkwMC1lYTM0LTRiYzktYTk2Ni04Yjg3NjBmODZlMmEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCLW0fNh2Vn8cpeqjFtRRe4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxNTU5NjRlZS02MTZhLTQwMmUtYjk4MS0zNTJkOTk0YWJkMTFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNos9ylr1XjiNZGUIgRroGpegAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggXKyt8MGeLufieECnB8XSN/BJ8cFP2CEvKEUbLbv93SakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaMvC94rPub9vckM/zOj3QNAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIHBVCwg34dD4/vpfx9vYe851imBoCtpsAtnGqJZGyXmFZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQEXZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjEwMjBlOTAwLWVhMzQtNGJjOS1hOTY2LThiODc2MGY4NmUyYS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmFlOTM5NWU2LTBmMjEtNDI2OS05ZWRkLTJlNjdiMTc4MWFiNnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBcrK3wwZ4u5+J4QKcHxdI38EnxwU/YIS8oRRstu/3dJqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggxxs7afT1wjiBcfNztmRlEaf/Jb+0UvEOSpcoYJf+dTaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggEvNc/hmrBmnr8RgQMz4mX6ALKM/0IXDvIlKVcyoW6EV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOwxY+ExMtCa1uZH2/G1F5z/ChOF5T7X6GTXc7L6f2kxhxZAp58pgsof+mT7s92L+21oMPVGiOYCTJmw/JSlb0M=</c2pa:manifest></metadata>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#03110d"/>
-      <stop offset="1" stop-color="#07261e"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#10b981" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#10b981" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="botbubble" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#34d399"/>
-      <stop offset="1" stop-color="#14b8a6"/>
-    </linearGradient>
-  </defs>
-  <style>
-    text { font-family: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; }
-    .in  { animation: rise .6s ease-out backwards; }
-    .u   { animation-delay: .3s; }
-    .c1  { animation-delay: 1.3s; }
-    .c2  { animation-delay: 1.6s; }
-    .bot { animation-delay: 3.3s; }
-    .typing { opacity: 0; animation: typing 1.4s linear 1.9s both; }
-    .dot { transform-box: fill-box; transform-origin: center; animation: pulse .9s ease-in-out infinite; }
-    .d2 { animation-delay: .15s; }
-    .d3 { animation-delay: .3s; }
-    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
-    @keyframes typing { 0% { opacity: 0; } 8% { opacity: 1; } 92% { opacity: 1; } 100% { opacity: 0; } }
-    @keyframes pulse { 0%, 100% { transform: scale(.7); opacity: .5; } 50% { transform: scale(1.1); opacity: 1; } }
-    @media (prefers-reduced-motion: reduce) { .in, .typing, .dot { animation: none !important; } .typing { opacity: 0; } }
-  </style>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1600 700"
+  width="1600"
+  height="700"
+  role="img"
+  aria-label="Talha Shaikh — Solo founder, AI and full-stack engineer. Building Botaura RAG chatbots for Pakistani SMBs."
+>
 
-  <rect width="1280" height="360" fill="url(#bg)"/>
-  <circle cx="960" cy="190" r="380" fill="url(#glow)"/>
+<defs>
 
-  <!-- identity -->
-  <text x="72" y="176" font-size="78" font-weight="800" fill="#ecfdf5" letter-spacing="-2.5">Talha Shaikh</text>
-  <text x="76" y="228" font-size="25" font-weight="600" fill="#6ee7b7">Solo founder. AI and full-stack engineer.</text>
-  <text x="76" y="268" font-size="20" fill="#8fb8aa">I build Botaura: RAG chatbots for Pakistani SMBs.</text>
-  <text x="76" y="302" font-size="18" fill="#5d8a7c">Karachi, Pakistan</text>
+  <!-- BACKGROUND -->
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#020b09"/>
+    <stop offset="48%" stop-color="#031814"/>
+    <stop offset="100%" stop-color="#06291f"/>
+  </linearGradient>
 
-  <!-- the conversation -->
-  <g class="in u">
-    <rect x="830" y="62" width="380" height="58" rx="20" fill="#0f3a30"/>
-    <text x="854" y="98" font-size="21" fill="#d1fae5">Bhai, mera order kab tak aayega?</text>
+  <radialGradient id="mainGlow" cx="72%" cy="45%" r="55%">
+    <stop offset="0%" stop-color="#10b981" stop-opacity=".20"/>
+    <stop offset="45%" stop-color="#10b981" stop-opacity=".07"/>
+    <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+  </radialGradient>
+
+  <radialGradient id="greenGlow" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#34d399" stop-opacity=".35"/>
+    <stop offset="100%" stop-color="#34d399" stop-opacity="0"/>
+  </radialGradient>
+
+  <!-- GLASS -->
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#163c34" stop-opacity=".72"/>
+    <stop offset="100%" stop-color="#061b16" stop-opacity=".48"/>
+  </linearGradient>
+
+  <!-- BOT -->
+  <linearGradient id="bot" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#6ee7b7"/>
+    <stop offset="50%" stop-color="#34d399"/>
+    <stop offset="100%" stop-color="#14b8a6"/>
+  </linearGradient>
+
+  <!-- STACK -->
+  <linearGradient id="layerTop" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#173f35"/>
+    <stop offset="100%" stop-color="#071b16"/>
+  </linearGradient>
+
+  <linearGradient id="layerGreen" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#34d399"/>
+    <stop offset="100%" stop-color="#059669"/>
+  </linearGradient>
+
+  <linearGradient id="layerBlue" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#38bdf8"/>
+    <stop offset="100%" stop-color="#0369a1"/>
+  </linearGradient>
+
+  <!-- LOGO GRADIENT -->
+  <linearGradient id="logoGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#5eead4"/>
+    <stop offset="100%" stop-color="#34d399"/>
+  </linearGradient>
+
+  <!-- GLOWS -->
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="10" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="22"/>
+  </filter>
+
+  <clipPath id="bottomClip">
+    <rect x="0" y="570" width="1600" height="130"/>
+  </clipPath>
+
+</defs>
+
+
+<style>
+
+  text {
+    font-family:
+      Inter,
+      "Segoe UI",
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      Arial,
+      sans-serif;
+  }
+
+  .title {
+    font-weight: 850;
+    letter-spacing: -3.8px;
+  }
+
+  .fade {
+    animation: fadeIn .8s ease-out both;
+  }
+
+  .delay1 { animation-delay: .15s; }
+  .delay2 { animation-delay: .3s; }
+  .delay3 { animation-delay: .45s; }
+  .delay4 { animation-delay: .6s; }
+  .delay5 { animation-delay: .75s; }
+
+  .pulse {
+    animation: pulse 2.5s ease-in-out infinite;
+  }
+
+  .dash {
+    stroke-dasharray: 6 9;
+    animation: dash 1.5s linear infinite;
+  }
+
+  .wave {
+    animation: wave 7s ease-in-out infinite alternate;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(18px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes pulse {
+    0%,100% { opacity: .35; }
+    50% { opacity: .8; }
+  }
+
+  @keyframes dash {
+    to { stroke-dashoffset: -30; }
+  }
+
+  @keyframes wave {
+    from { transform: translateX(-15px); }
+    to { transform: translateX(15px); }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      animation: none !important;
+    }
+  }
+
+</style>
+
+
+<!-- ========================================================= -->
+<!-- BACKGROUND -->
+<!-- ========================================================= -->
+
+<rect width="1600" height="700" fill="url(#bg)"/>
+
+<rect
+  width="1600"
+  height="700"
+  fill="url(#mainGlow)"
+/>
+
+<ellipse
+  cx="1170"
+  cy="350"
+  rx="430"
+  ry="300"
+  fill="url(#greenGlow)"
+  opacity=".28"
+  filter="url(#softGlow)"
+/>
+
+
+<!-- ========================================================= -->
+<!-- TOP LEFT BRAND / TS LOGO -->
+<!-- ========================================================= -->
+
+<g class="fade">
+
+  <!-- Tight TS monogram -->
+  <g transform="translate(76 66)">
+
+    <!-- T -->
+    <path
+      d="M0 0 H55 V11 H35 V50 H20 V11 H0 Z"
+      fill="url(#logoGrad)"
+    />
+
+    <!-- S -->
+    <path
+      d="M72 3
+         C64 3 59 7 59 14
+         C59 22 65 25 75 28
+         L83 31
+         C91 34 95 39 95 47
+         C95 57 87 63 76 63
+         C66 63 58 59 53 53
+         L61 44
+         C65 48 70 51 76 51
+         C80 51 83 49 83 46
+         C83 42 80 41 74 39
+         L66 36
+         C57 33 53 27 53 19
+         C53 9 61 2 72 2
+         C82 2 90 5 95 12
+         L87 20
+         C83 15 78 13 72 13
+         C68 13 65 15 65 18
+         C65 21 68 23 73 24
+         L82 27
+         C91 30 96 36 96 45
+         C96 56 88 64 76 64
+         C65 64 56 60 50 54"
+      fill="url(#logoGrad)"
+      transform="translate(18 -3) scale(.8)"
+    />
+
   </g>
 
-  <g class="in c1">
-    <rect x="700" y="146" width="168" height="32" rx="16" fill="none" stroke="#14b8a6" stroke-width="1.5"/>
-    <text x="722" y="168" font-size="15" fill="#5eead4">orders.pdf  0.91</text>
-  </g>
-  <g class="in c2">
-    <rect x="880" y="146" width="208" height="32" rx="16" fill="none" stroke="#14b8a6" stroke-width="1.5"/>
-    <text x="902" y="168" font-size="15" fill="#5eead4">shipping-policy  0.87</text>
-  </g>
 
-  <g class="typing">
-    <rect x="700" y="204" width="88" height="46" rx="23" fill="#0f3a30"/>
-    <circle class="dot" cx="729" cy="227" r="5.5" fill="#5eead4"/>
-    <circle class="dot d2" cx="744" cy="227" r="5.5" fill="#5eead4"/>
-    <circle class="dot d3" cx="759" cy="227" r="5.5" fill="#5eead4"/>
-  </g>
+  <line
+    x1="190"
+    y1="67"
+    x2="190"
+    y2="116"
+    stroke="#14b8a6"
+    stroke-width="2"
+  />
 
-  <g class="in bot">
-    <rect x="700" y="204" width="500" height="104" rx="22" fill="url(#botbubble)"/>
-    <text x="726" y="248" font-size="22" font-weight="700" fill="#03110d">Aapka order kal tak pohanch jayega.</text>
-    <text x="726" y="282" font-size="20" font-weight="500" fill="#06352a">Tracking link WhatsApp par bhej diya hai.</text>
-  </g>
+  <text
+    x="224"
+    y="98"
+    font-size="17"
+    font-weight="600"
+    letter-spacing="7"
+    fill="#b8d9d0"
+  >
+    BUILD
+  </text>
 
-  <text x="1208" y="342" font-size="16" fill="#3f7566" text-anchor="end">botaura.app</text>
+  <text
+    x="326"
+    y="98"
+    font-size="17"
+    fill="#38766a"
+  >
+    /
+  </text>
+
+  <text
+    x="364"
+    y="98"
+    font-size="17"
+    font-weight="600"
+    letter-spacing="7"
+    fill="#b8d9d0"
+  >
+    AUTOMATE
+  </text>
+
+  <text
+    x="509"
+    y="98"
+    font-size="17"
+    fill="#38766a"
+  >
+    /
+  </text>
+
+  <text
+    x="549"
+    y="98"
+    font-size="17"
+    font-weight="600"
+    letter-spacing="7"
+    fill="#b8d9d0"
+  >
+    SCALE
+  </text>
+
+</g>
+
+
+<!-- WEBSITE -->
+
+<g class="fade delay1">
+
+  <text
+    x="1515"
+    y="92"
+    font-size="17"
+    letter-spacing="2"
+    fill="#5eead4"
+    text-anchor="end"
+  >
+    botaura.app
+  </text>
+
+  <line
+    x1="1360"
+    y1="87"
+    x2="1390"
+    y2="87"
+    stroke="#14b8a6"
+    stroke-width="1.5"
+  />
+
+</g>
+
+
+<!-- ========================================================= -->
+<!-- LEFT CONTENT -->
+<!-- ========================================================= -->
+
+<g class="fade delay1">
+
+  <!-- Reduced gap between Talha and Shaikh -->
+
+  <text
+    x="76"
+    y="275"
+    font-size="104"
+    class="title"
+    fill="#f0fdf9"
+  >
+    Talha
+  </text>
+
+  <text
+    x="388"
+    y="275"
+    font-size="104"
+    class="title"
+    fill="#55e6c1"
+  >
+    Shaikh
+  </text>
+
+</g>
+
+
+<g class="fade delay2">
+
+  <text
+    x="82"
+    y="332"
+    font-size="29"
+    font-weight="700"
+    fill="#6ee7b7"
+  >
+    Solo founder. AI and full-stack engineer.
+  </text>
+
+  <text
+    x="82"
+    y="375"
+    font-size="22"
+    fill="#9bbdb4"
+  >
+    I build Botaura: RAG chatbots for Pakistani SMBs.
+  </text>
+
+</g>
+
+
+<!-- LOCATION -->
+
+<g class="fade delay3">
+
+  <circle
+    cx="94"
+    cy="421"
+    r="10"
+    fill="none"
+    stroke="#2dd4bf"
+    stroke-width="2"
+  />
+
+  <circle
+    cx="94"
+    cy="421"
+    r="3"
+    fill="#2dd4bf"
+  />
+
+  <path
+    d="M94 433 L89 426 M94 433 L99 426"
+    fill="none"
+    stroke="#2dd4bf"
+    stroke-width="2"
+  />
+
+  <text
+    x="119"
+    y="428"
+    font-size="18"
+    fill="#69a99a"
+  >
+    Karachi, Pakistan
+  </text>
+
+</g>
+
+
+<!-- ========================================================= -->
+<!-- SMALLER 3 BADGES -->
+<!-- ========================================================= -->
+
+<g class="fade delay4">
+
+  <!-- Badge 1 -->
+  <rect
+    x="78"
+    y="465"
+    width="170"
+    height="46"
+    rx="23"
+    fill="#071d17"
+    stroke="#14b8a6"
+    stroke-width="1.4"
+  />
+
+  <circle
+    cx="101"
+    cy="488"
+    r="7"
+    fill="none"
+    stroke="#5eead4"
+    stroke-width="1.8"
+  />
+
+  <path
+    d="M95 493 L103 485 L108 489 L116 481"
+    fill="none"
+    stroke="#5eead4"
+    stroke-width="1.7"
+  />
+
+  <text
+    x="130"
+    y="494"
+    font-size="15"
+    font-weight="700"
+    fill="#5eead4"
+  >
+    160+ routes
+  </text>
+
+
+  <!-- Badge 2 -->
+  <rect
+    x="260"
+    y="465"
+    width="275"
+    height="46"
+    rx="23"
+    fill="#071d17"
+    stroke="#14b8a6"
+    stroke-width="1.4"
+  />
+
+  <path
+    d="M282 483
+       h21
+       a5 5 0 0 1 5 5
+       v8
+       a5 5 0 0 1-5 5
+       h-10
+       l-6 5
+       v-5
+       h-5
+       a5 5 0 0 1-5-5
+       v-8
+       a5 5 0 0 1 5-5z"
+    fill="none"
+    stroke="#5eead4"
+    stroke-width="1.6"
+  />
+
+  <text
+    x="317"
+    y="493"
+    font-size="14.5"
+    font-weight="700"
+    fill="#5eead4"
+  >
+    Bilingual (Urdu + English)
+  </text>
+
+
+  <!-- Badge 3 -->
+  <rect
+    x="547"
+    y="465"
+    width="170"
+    height="46"
+    rx="23"
+    fill="#071d17"
+    stroke="#14b8a6"
+    stroke-width="1.4"
+  />
+
+  <path
+    d="M571 477
+       l4 8
+       l8 4
+       l-8 4
+       l-4 8
+       l-4-8
+       l-8-4
+       l8-4z"
+    fill="#5eead4"
+  />
+
+  <text
+    x="590"
+    y="493"
+    font-size="14.5"
+    font-weight="700"
+    fill="#5eead4"
+  >
+    Bot nahi. Aura.
+  </text>
+
+</g>
+
+
+<!-- ========================================================= -->
+<!-- ELEGANT SIGNATURE -->
+<!-- ========================================================= -->
+
+<g class="fade delay5">
+
+  <text
+    x="80"
+    y="590"
+    font-size="35"
+    font-family="'Brush Script MT', 'Segoe Script', 'URW Chancery L', cursive"
+    font-style="italic"
+    font-weight="500"
+    letter-spacing="-1.5"
+    fill="#43e6c0"
+  >
+    Talha Shaikh
+  </text>
+
+  <path
+    d="M80 600
+       C145 610 225 603 285 590
+       C320 583 350 583 378 588"
+    fill="none"
+    stroke="#2ccfb0"
+    stroke-width="1"
+    opacity=".65"
+  />
+
+  <line
+    x1="405"
+    y1="581"
+    x2="540"
+    y2="581"
+    stroke="#1aa88f"
+    stroke-width="1"
+  />
+
+</g>
+
+
+<!-- ========================================================= -->
+<!-- CHAT INTERFACE — MOVED LEFT -->
+<!-- ========================================================= -->
+
+<g>
+
+  <!-- Main chat panel moved from 780 → 720 -->
+
+  <rect
+    x="720"
+    y="177"
+    width="455"
+    height="390"
+    rx="32"
+    fill="url(#glass)"
+    stroke="#0d806d"
+    stroke-opacity=".65"
+    stroke-width="1.5"
+  />
+
+  <rect
+    x="734"
+    y="191"
+    width="427"
+    height="362"
+    rx="25"
+    fill="none"
+    stroke="#0c5549"
+    stroke-opacity=".5"
+  />
+
+
+  <!-- USER MESSAGE -->
+
+  <rect
+    x="758"
+    y="217"
+    width="375"
+    height="65"
+    rx="30"
+    fill="#0b3027"
+    stroke="#159d85"
+    stroke-width="1"
+  />
+
+  <circle
+    cx="790"
+    cy="249"
+    r="20"
+    fill="#16483d"
+  />
+
+  <circle
+    cx="790"
+    cy="243"
+    r="6"
+    fill="#7dd3c0"
+  />
+
+  <path
+    d="M779 258 Q790 247 801 258"
+    fill="none"
+    stroke="#7dd3c0"
+    stroke-width="3"
+  />
+
+  <text
+    x="824"
+    y="256"
+    font-size="17.5"
+    font-weight="600"
+    fill="#e1faf2"
+  >
+    Bhai, mera order kab tak aayega?
+  </text>
+
+
+  <!-- RETRIEVAL CHIPS -->
+
+  <rect
+    x="758"
+    y="307"
+    width="158"
+    height="42"
+    rx="21"
+    fill="#061c17"
+    stroke="#0dc6aa"
+    stroke-width="1.5"
+  />
+
+  <rect
+    x="928"
+    y="307"
+    width="205"
+    height="42"
+    rx="21"
+    fill="#061c17"
+    stroke="#0dc6aa"
+    stroke-width="1.5"
+  />
+
+  <rect
+    x="776"
+    y="318"
+    width="14"
+    height="17"
+    rx="2"
+    fill="none"
+    stroke="#5eead4"
+    stroke-width="1.5"
+  />
+
+  <text
+    x="800"
+    y="334"
+    font-size="13.5"
+    font-weight="600"
+    fill="#5eead4"
+  >
+    orders.pdf
+  </text>
+
+  <text
+    x="885"
+    y="334"
+    font-size="12"
+    fill="#77a99d"
+  >
+    0.91
+  </text>
+
+  <rect
+    x="946"
+    y="318"
+    width="14"
+    height="17"
+    rx="2"
+    fill="none"
+    stroke="#5eead4"
+    stroke-width="1.5"
+  />
+
+  <text
+    x="970"
+    y="334"
+    font-size="13.5"
+    font-weight="600"
+    fill="#5eead4"
+  >
+    shipping-policy
+  </text>
+
+  <text
+    x="1097"
+    y="334"
+    font-size="12"
+    fill="#77a99d"
+  >
+    0.87
+  </text>
+
+
+  <!-- BOT RESPONSE -->
+
+  <ellipse
+    cx="935"
+    cy="475"
+    rx="200"
+    ry="90"
+    fill="#10b981"
+    opacity=".14"
+    filter="url(#softGlow)"
+  />
+
+  <path
+    d="M758 385
+       Q758 365 778 365
+       H1100
+       Q1133 365 1133 390
+       V493
+       Q1133 518 1108 518
+       H797
+       L763 541
+       L772 516
+       Q758 505 758 488 Z"
+    fill="url(#bot)"
+  />
+
+  <!-- BOT ICON -->
+
+  <circle
+    cx="784"
+    cy="389"
+    r="19"
+    fill="#06261e"
+    opacity=".85"
+  />
+
+  <rect
+    x="774"
+    y="382"
+    width="20"
+    height="15"
+    rx="4"
+    fill="none"
+    stroke="#6ee7b7"
+    stroke-width="2"
+  />
+
+  <circle cx="780" cy="389" r="2" fill="#6ee7b7"/>
+  <circle cx="788" cy="389" r="2" fill="#6ee7b7"/>
+
+  <line
+    x1="784"
+    y1="378"
+    x2="784"
+    y2="373"
+    stroke="#6ee7b7"
+    stroke-width="2"
+  />
+
+  <circle
+    cx="784"
+    cy="371"
+    r="2"
+    fill="#6ee7b7"
+  />
+
+
+  <text
+    x="815"
+    y="421"
+    font-size="16"
+    font-weight="800"
+    fill="#032018"
+  >
+    Aapka order kal tak pohanch jayega.
+  </text>
+
+  <text
+    x="815"
+    y="456"
+    font-size="14"
+    font-weight="500"
+    fill="#064536"
+  >
+    Tracking link WhatsApp par bhej diya hai.
+  </text>
+
+  <text
+    x="1040"
+    y="493"
+    font-size="12"
+    fill="#075443"
+  >
+    10:24 AM
+  </text>
+
+  <text
+    x="1110"
+    y="493"
+    font-size="12"
+    font-weight="700"
+    fill="#075443"
+  >
+    ✓✓
+  </text>
+
+</g>
+
+
+<!-- ========================================================= -->
+<!-- TECH STACK — SLIGHTLY LEFT -->
+<!-- ========================================================= -->
+
+<g>
+
+  <!-- CONNECTORS -->
+
+  <line
+    x1="1175"
+    y1="192"
+    x2="1240"
+    y2="192"
+    stroke="#5eead4"
+    stroke-width="1.5"
+    opacity=".6"
+    class="dash"
+  />
+
+  <line
+    x1="1175"
+    y1="292"
+    x2="1240"
+    y2="292"
+    stroke="#5eead4"
+    stroke-width="1.5"
+    opacity=".6"
+    class="dash"
+  />
+
+  <line
+    x1="1175"
+    y1="392"
+    x2="1240"
+    y2="392"
+    stroke="#38bdf8"
+    stroke-width="1.5"
+    opacity=".6"
+    class="dash"
+  />
+
+
+  <!-- NEXT.JS -->
+
+  <polygon
+    points="1240,192 1345,145 1450,192 1345,239"
+    fill="url(#layerTop)"
+    stroke="#5eead4"
+    stroke-width="1.8"
+  />
+
+  <polygon
+    points="1240,192 1345,239 1345,263 1240,216"
+    fill="#08765f"
+  />
+
+  <polygon
+    points="1345,239 1450,192 1450,216 1345,263"
+    fill="#075b4c"
+  />
+
+  <circle
+    cx="1345"
+    cy="190"
+    r="23"
+    fill="none"
+    stroke="#e6fffa"
+    stroke-width="2"
+  />
+
+  <text
+    x="1345"
+    y="198"
+    font-size="23"
+    font-weight="800"
+    fill="#ecfdf5"
+    text-anchor="middle"
+  >
+    N
+  </text>
+
+  <text
+    x="1345"
+    y="224"
+    font-size="17"
+    font-weight="700"
+    fill="#e8fff8"
+    text-anchor="middle"
+  >
+    Next.js
+  </text>
+
+  <text
+    x="1345"
+    y="244"
+    font-size="12"
+    font-weight="700"
+    fill="#5eead4"
+    text-anchor="middle"
+  >
+    UI
+  </text>
+
+
+  <!-- FASTAPI -->
+
+  <polygon
+    points="1240,292 1345,245 1450,292 1345,339"
+    fill="url(#layerGreen)"
+    stroke="#6ee7b7"
+    stroke-width="1.8"
+  />
+
+  <polygon
+    points="1240,292 1345,339 1345,363 1240,316"
+    fill="#087f62"
+  />
+
+  <polygon
+    points="1345,339 1450,292 1450,316 1345,363"
+    fill="#07694f"
+  />
+
+  <circle
+    cx="1345"
+    cy="290"
+    r="22"
+    fill="#eafff7"
+  />
+
+  <path
+    d="M1352 272 L1338 292 H1346 L1340 308 L1357 287 H1348 Z"
+    fill="#079b74"
+  />
+
+  <text
+    x="1345"
+    y="323"
+    font-size="17"
+    font-weight="700"
+    fill="#ecfff9"
+    text-anchor="middle"
+  >
+    FastAPI
+  </text>
+
+  <text
+    x="1345"
+    y="343"
+    font-size="12"
+    font-weight="700"
+    fill="#b8ffe9"
+    text-anchor="middle"
+  >
+    API
+  </text>
+
+
+  <!-- PGVECTOR -->
+
+  <polygon
+    points="1240,392 1345,345 1450,392 1345,439"
+    fill="url(#layerBlue)"
+    stroke="#38bdf8"
+    stroke-width="1.8"
+  />
+
+  <polygon
+    points="1240,392 1345,439 1345,463 1240,416"
+    fill="#075985"
+  />
+
+  <polygon
+    points="1345,439 1450,392 1450,416 1345,463"
+    fill="#07506f"
+  />
+
+  <ellipse
+    cx="1345"
+    cy="389"
+    rx="22"
+    ry="8"
+    fill="none"
+    stroke="#e0f2fe"
+    stroke-width="2"
+  />
+
+  <path
+    d="M1323 389 V407 Q1345 420 1367 407 V389"
+    fill="none"
+    stroke="#e0f2fe"
+    stroke-width="2"
+  />
+
+  <text
+    x="1345"
+    y="424"
+    font-size="17"
+    font-weight="700"
+    fill="#f0f9ff"
+    text-anchor="middle"
+  >
+    pgvector
+  </text>
+
+  <text
+    x="1345"
+    y="444"
+    font-size="12"
+    font-weight="700"
+    fill="#bae6fd"
+    text-anchor="middle"
+  >
+    DATA
+  </text>
+
+</g>
+
+
+<!-- CONNECTOR NODES -->
+
+<g class="pulse">
+
+  <circle cx="1208" cy="192" r="4" fill="#5eead4"/>
+  <circle cx="1208" cy="292" r="4" fill="#5eead4"/>
+  <circle cx="1208" cy="392" r="4" fill="#38bdf8"/>
+
+  <circle
+    cx="1208"
+    cy="192"
+    r="12"
+    fill="none"
+    stroke="#34d399"
+    opacity=".3"
+  />
+
+  <circle
+    cx="1208"
+    cy="292"
+    r="12"
+    fill="none"
+    stroke="#34d399"
+    opacity=".3"
+  />
+
+  <circle
+    cx="1208"
+    cy="392"
+    r="12"
+    fill="none"
+    stroke="#38bdf8"
+    opacity=".3"
+  />
+
+</g>
+
+
+<!-- ========================================================= -->
+<!-- BOTTOM WAVE -->
+<!-- ========================================================= -->
+
+<g clip-path="url(#bottomClip)" class="wave">
+
+  <path
+    d="M-100 625
+       C120 510 260 720 470 610
+       C650 515 790 685 970 610
+       C1160 530 1290 665 1700 530"
+    fill="none"
+    stroke="#0b6756"
+    stroke-width="16"
+    opacity=".25"
+    filter="url(#softGlow)"
+  />
+
+  <path
+    d="M-100 625
+       C120 510 260 720 470 610
+       C650 515 790 685 970 610
+       C1160 530 1290 665 1700 530"
+    fill="none"
+    stroke="#14b8a6"
+    stroke-width="2"
+    opacity=".8"
+  />
+
+  <path
+    d="M-100 640
+       C120 525 260 735 470 625
+       C650 530 790 700 970 625
+       C1160 545 1290 680 1700 545"
+    fill="none"
+    stroke="#34d399"
+    stroke-width="1"
+    opacity=".45"
+  />
+
+</g>
+
+
+<!-- FOOTER -->
+
+<text
+  x="1515"
+  y="660"
+  font-size="14"
+  letter-spacing="4"
+  fill="#39776b"
+  text-anchor="end"
+>
+  NEXT.JS • FASTAPI • PGVECTOR
+</text>
+
 </svg>
